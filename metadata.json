@@ -1,0 +1,6 @@
+{
+  "name": "AI Monitoring & Reliability Platform",
+  "description": "A production AI monitoring platform that tracking model drift, latency spikes, prediction failures, and API errors over time across multiple simulated deployment scenarios, with automated anomaly root-cause analysis, incident reporting, and rollback recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
